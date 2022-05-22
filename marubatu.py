@@ -1,3 +1,5 @@
 import random
 mode random.randint(0,1)
-table[3][3]
+table=["---","---","---"]
+for i in range(9)
+  table[i/3
